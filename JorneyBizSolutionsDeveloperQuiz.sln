@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JorneyBizSolutionsDeveloperQuiz", "JorneyBizSolutionsDeveloperQuiz\JorneyBizSolutionsDeveloperQuiz.csproj", "{DE12DFB1-A1D2-4827-8B5F-81BB521115D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JourneyBizDatabase", "JourneyBizDatabase\JourneyBizDatabase.csproj", "{23A531E8-F9A0-4BF2-8C2E-1FBADC81FCBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE12DFB1-A1D2-4827-8B5F-81BB521115D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE12DFB1-A1D2-4827-8B5F-81BB521115D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE12DFB1-A1D2-4827-8B5F-81BB521115D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE12DFB1-A1D2-4827-8B5F-81BB521115D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A531E8-F9A0-4BF2-8C2E-1FBADC81FCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A531E8-F9A0-4BF2-8C2E-1FBADC81FCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A531E8-F9A0-4BF2-8C2E-1FBADC81FCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A531E8-F9A0-4BF2-8C2E-1FBADC81FCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6AF3905-8FF2-4112-A8BB-3DEDD5AA066F}
+	EndGlobalSection
+EndGlobal
